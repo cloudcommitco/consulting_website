@@ -29,6 +29,8 @@ pinterest_url:
 slack_url:
 twitter_url: 
 
+formspree_code: mjvwdzak
+
 # build settings
 markdown: kramdown
 
