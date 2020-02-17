@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Cloud Migration
+description: Scale at the speed of the cloud!
+image: assets/images/pic05.jpg
 nav-menu: true
 ---
 

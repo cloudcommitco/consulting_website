@@ -2,7 +2,7 @@
 layout: post
 title: Serverless
 description: Serverless tech - Containers and Lambdas
-image: assets/images/pic11.jpg
+image: assets/images/pic08.jpg
 nav-menu: true
 ---
 
