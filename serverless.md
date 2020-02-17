@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Serverless
+description: Serverless tech - Containers and Lambdas
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

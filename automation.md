@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Automation
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Automation, DevOps, Cost Optimisation'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
