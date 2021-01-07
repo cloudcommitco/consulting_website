@@ -11,7 +11,7 @@ city: Bangalore
 state: KA
 zip_code: 560008
 country: India
-phone: +91 9003010231
+phone: +91 9886299800
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -21,13 +21,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
-linkedin_url: 
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url:
 
 formspree_code: mjvwdzak
 
